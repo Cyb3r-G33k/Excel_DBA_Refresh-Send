@@ -20,8 +20,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YourGitHubAccount/ExcelCourier.git
-   cd ExcelCourier
+   git clone https://github.com/Cyb3r-G33k/Excel_DBA_Refresh-Send
+
    ```
 
 2. **Install dependencies**
@@ -31,7 +31,7 @@
 
 3. **Run the application**
    ```bash
-   python ExcelCourier.py
+   python main.py
    ```
 
 ---
@@ -39,7 +39,7 @@
 ## Usage
 
 1. **Launch the application:**  
-   Run `ExcelCourier.py` to open the tool.
+   Run `main.py` to open the tool.
 
 2. **Select Excel Files to Monitor:**  
    Use the interface to select the Excel files you want to monitor.
